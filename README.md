@@ -4,6 +4,12 @@
 
 https://github.com/vigorc/hunyuan_AIGC_extension/assets/QFJA9420.MP4
 
+<video src="https://github.com/vigorc/hunyuan_AIGC_extension/raw/main/QFJA9420.MP4" controls>
+  您的浏览器不支持视频播放 / Your browser does not support the video tag.
+</video>
+
+*或者直接下载观看 / Or download to watch: [QFJA9420.MP4](https://github.com/vigorc/hunyuan_AIGC_extension/raw/main/QFJA9420.MP4)*
+
 ---
 
 ## 📖 概述 (Overview)
