@@ -1,14 +1,11 @@
 # 混元 AIGC 扩展 (Hunyuan AIGC Extension)
 
-🎬 **演示视频 / Demo Video**
+## 🎬 演示视频 / Demo Video
 
-https://github.com/vigorc/hunyuan_AIGC_extension/assets/QFJA9420.MP4
+> 📥 **[点击下载演示视频 / Click to Download Demo Video (63MB)](https://github.com/vigorc/hunyuan_AIGC_extension/raw/main/QFJA9420.MP4)**
 
-<video src="https://github.com/vigorc/hunyuan_AIGC_extension/raw/main/QFJA9420.MP4" controls>
-  您的浏览器不支持视频播放 / Your browser does not support the video tag.
-</video>
-
-*或者直接下载观看 / Or download to watch: [QFJA9420.MP4](https://github.com/vigorc/hunyuan_AIGC_extension/raw/main/QFJA9420.MP4)*
+*注：视频文件较大，GitHub 无法在线预览，请下载后观看*  
+*Note: The video file is large and cannot be previewed online on GitHub. Please download to watch.*
 
 ---
 
