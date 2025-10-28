@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+hunyuan/aigc_extension/generated_models/*.glb
+hunyuan/aigc_extension/uploaded_images/*.png
+hunyuan/aigc_extension/uploaded_images/*.jpg
+hunyuan/aigc_extension/uploaded_images/*.jpeg
+
+# Keep directory structure but ignore content
+!hunyuan/aigc_extension/generated_models/.gitkeep
+!hunyuan/aigc_extension/uploaded_images/.gitkeep
+
+# Data
+data/*
+!data/.gitkeep
+
