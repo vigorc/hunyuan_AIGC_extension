@@ -2,10 +2,12 @@
 
 ## 🎬 演示视频 / Demo Video
 
-> 📥 **[点击下载演示视频 / Click to Download Demo Video (63MB)](https://github.com/vigorc/hunyuan_AIGC_extension/raw/main/QFJA9420.MP4)**
+![Demo GIF](demo.gif)
 
-*注：视频文件较大，GitHub 无法在线预览，请下载后观看*  
-*Note: The video file is large and cannot be previewed online on GitHub. Please download to watch.*
+> 📥 **[点击下载完整演示视频 / Click to Download Full Demo Video (63MB, 2:30)](https://github.com/vigorc/hunyuan_AIGC_extension/raw/main/QFJA9420.MP4)**
+
+*上方为20秒 GIF 预览（视频中间部分），完整视频请点击上方链接下载*  
+*Above is a 20-second GIF preview (middle section of the video). Click the link above to download the full video.*
 
 ---
 
