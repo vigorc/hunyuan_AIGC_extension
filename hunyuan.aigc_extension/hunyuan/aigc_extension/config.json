@@ -1,0 +1,6 @@
+{
+    "cloud_api_key": "sk-xxxxxx",
+    "cloud_api_url": "https://api.ai3d.cloud.tencent.com/v1/ai3d",
+    "local_server_url": "http://localhost:8081"
+}
+

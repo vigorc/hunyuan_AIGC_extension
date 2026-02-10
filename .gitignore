@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# 本地测试/上传的图片（可选：若需提交示例图可移除此行）
+hunyuan.aigc_extension/hunyuan/aigc_extension/uploaded_images/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
